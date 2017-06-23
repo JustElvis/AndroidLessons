@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProgressDialog</string>
+    <string name="dflt">Звичайний</string>
+    <string name="Line">Лінійний</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlertDialogCustom</string>
+    <string name="add">Додати</string>
+    <string name="remove">Стерти</string>
+</resources>

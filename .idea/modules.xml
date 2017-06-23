@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Androidlessons2.iml" filepath="$PROJECT_DIR$/Androidlessons2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0541_CustomAdapter/P0541_CustomAdapter.iml" filepath="$PROJECT_DIR$/P0541_CustomAdapter/P0541_CustomAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0551_HeaderFooter/P0551_HeaderFooter.iml" filepath="$PROJECT_DIR$/P0551_HeaderFooter/P0551_HeaderFooter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0571_GridView/P0571_GridView.iml" filepath="$PROJECT_DIR$/P0571_GridView/P0571_GridView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0581_TimePickerDialog/P0581_TimePickerDialog.iml" filepath="$PROJECT_DIR$/P0581_TimePickerDialog/P0581_TimePickerDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0591_DatePickerDialog/P0591_DatePickerDialog.iml" filepath="$PROJECT_DIR$/P0591_DatePickerDialog/P0591_DatePickerDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0601_AlertDialogSimple/P0601_AlertDialogSimple.iml" filepath="$PROJECT_DIR$/P0601_AlertDialogSimple/P0601_AlertDialogSimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0611_AlertDialogPrepare/P0611_AlertDialogPrepare.iml" filepath="$PROJECT_DIR$/P0611_AlertDialogPrepare/P0611_AlertDialogPrepare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0621_AlertDialogItems/P0621_AlertDialogItems.iml" filepath="$PROJECT_DIR$/P0621_AlertDialogItems/P0621_AlertDialogItems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0641_AlertDialogItemsMulti/P0641_AlertDialogItemsMulti.iml" filepath="$PROJECT_DIR$/P0641_AlertDialogItemsMulti/P0641_AlertDialogItemsMulti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0651_AlertDialogCustom/P0651_AlertDialogCustom.iml" filepath="$PROJECT_DIR$/P0651_AlertDialogCustom/P0651_AlertDialogCustom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0661_AlertDialogOperations/P0661_AlertDialogOperations.iml" filepath="$PROJECT_DIR$/P0661_AlertDialogOperations/P0661_AlertDialogOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0671_ProgressDialog/P0671_ProgressDialog.iml" filepath="$PROJECT_DIR$/P0671_ProgressDialog/P0671_ProgressDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0681_Parcel/P0681_Parcel.iml" filepath="$PROJECT_DIR$/P0681_Parcel/P0681_Parcel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0691_Parcelable/P0691_Parcelable.iml" filepath="$PROJECT_DIR$/P0691_Parcelable/P0691_Parcelable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleCursorTreeAdapter/SimpleCursorTreeAdapter.iml" filepath="$PROJECT_DIR$/SimpleCursorTreeAdapter/SimpleCursorTreeAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spinner/Spinner.iml" filepath="$PROJECT_DIR$/Spinner/Spinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/posts/posts.iml" filepath="$PROJECT_DIR$/posts/posts.iml" />
+    </modules>
+  </component>
+</project>
